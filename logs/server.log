@@ -1,0 +1,154 @@
+{"level":"INFO","time":"2019-12-27T16:05:54.842+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T16:05:54.878+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T16:05:54.880+0800","caller":"dbger/main.go:73","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T16:05:54.916+0800","caller":"dbger/main.go:54","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T16:06:42.705+0800","caller":"config/config.go:69","message":"config file changed: C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T16:06:42.706+0800","caller":"config/config.go:69","message":"config file changed: C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T16:06:42.708+0800","caller":"config/config.go:69","message":"config file changed: C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"ERROR","time":"2019-12-27T16:15:31.863+0800","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T16:18:45.267+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T16:18:45.295+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T16:18:45.297+0800","caller":"dbger/main.go:73","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T16:18:45.514+0800","caller":"api/auth.go:9","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T16:18:45.844+0800","caller":"dbger/main.go:54","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T16:18:51.230+0800","caller":"api/auth.go:9","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T16:20:31.541+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T16:20:31.565+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T16:20:31.566+0800","caller":"dbger/main.go:73","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T16:20:32.113+0800","caller":"dbger/main.go:54","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T16:20:37.866+0800","caller":"api/auth.go:9","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:28:04.827+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:28:04.875+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:28:05.009+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:28:05.012+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:29:27.408+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:29:27.438+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:29:27.593+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:29:28.093+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:32:51.105+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:32:51.127+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:32:51.284+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:32:51.287+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:36:53.927+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:36:53.958+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:36:54.097+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:36:54.595+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:39:10.264+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:39:10.288+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:39:10.423+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:39:10.935+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:41:03.215+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:41:03.243+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:41:03.379+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:41:03.883+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:43:14.613+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:43:14.648+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:43:14.789+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:43:15.301+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:44:01.430+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:44:01.465+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:44:01.683+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:44:01.685+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:45:31.616+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:45:31.645+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:45:31.784+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:45:32.289+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:46:23.443+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:46:23.469+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:46:23.632+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:46:24.139+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:46:50.919+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:46:50.944+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:46:52.382+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:46:52.882+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:47:25.523+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:47:25.548+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:47:25.698+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:47:25.704+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:47:43.420+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:47:43.449+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:47:43.589+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:47:44.092+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:51:59.404+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:51:59.424+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:51:59.579+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:52:00.082+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:55:10.094+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:55:10.115+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:55:10.245+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:55:10.247+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:56:12.090+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:56:12.112+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:56:12.262+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:56:12.264+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T17:57:25.029+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T17:57:25.053+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T17:57:25.199+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T17:57:25.703+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T18:02:29.747+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T18:02:29.769+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T18:02:29.915+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T18:02:29.918+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-27T18:04:00.732+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-27T18:04:00.764+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-27T18:04:00.895+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-27T18:04:01.397+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-30T10:07:33.385+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-30T10:07:33.412+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-30T10:07:33.593+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-30T10:07:33.596+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2019-12-30T11:51:58.431+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2019-12-30T11:51:58.455+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2019-12-30T11:51:58.592+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2019-12-30T11:51:58.597+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2020-06-19T14:04:01.012+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2020-06-19T14:04:01.121+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-06-19T14:04:01.237+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2020-06-19T14:04:01.245+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2020-06-19T15:19:35.235+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2020-06-19T15:19:35.279+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-06-19T15:19:35.458+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2020-06-19T15:19:35.969+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2020-06-19T15:31:52.059+0800","caller":"config/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2020-06-19T15:31:52.112+0800","caller":"config/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-06-19T15:31:52.221+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2020-06-19T15:31:52.726+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2020-06-19T15:59:46.201+0800","caller":"Common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2020-06-19T15:59:46.256+0800","caller":"Common/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-06-19T15:59:46.505+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2020-06-19T15:59:47.010+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2020-06-19T16:53:17.277+0800","caller":"Common/config.go:69","message":"config file changed: C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-06-19T16:53:17.279+0800","caller":"Common/config.go:69","message":"config file changed: C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-06-19T16:53:17.282+0800","caller":"Common/config.go:69","message":"config file changed: C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-07-03T10:41:31.707+0800","caller":"Common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2020-07-03T10:41:31.779+0800","caller":"Common/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-07-03T10:41:31.924+0800","caller":"dbger/main.go:74","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2020-07-03T10:41:32.427+0800","caller":"dbger/main.go:55","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2020-07-03T15:10:24.245+0800","caller":"Common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2020-07-03T15:10:24.266+0800","caller":"Common/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-07-03T15:10:24.398+0800","caller":"dbger/main.go:64","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2020-07-03T15:10:24.901+0800","caller":"dbger/main.go:49","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2020-07-03T15:13:03.112+0800","caller":"Common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2020-07-03T15:13:03.142+0800","caller":"Common/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"ERROR","time":"2020-07-03T15:13:24.143+0800","caller":"models/init.go:54","message":"sql.Open() error(dial tcp 182.61.28.243:3306: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.)"}
+{"level":"ERROR","time":"2020-07-03T15:13:24.143+0800","caller":"models/init.go:55","message":"Database connection failed. Database name: dbger"}
+{"level":"INFO","time":"2020-07-03T15:13:24.150+0800","caller":"dbger/main.go:64","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2020-07-03T15:13:24.651+0800","caller":"dbger/main.go:49","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2020-09-09T14:51:56.884+0800","caller":"Common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2020-09-09T14:51:56.946+0800","caller":"Common/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-09-09T14:51:57.122+0800","caller":"dbger/main.go:64","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2020-09-09T14:51:57.125+0800","caller":"dbger/main.go:49","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2020-09-09T14:57:09.276+0800","caller":"Common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2020-09-09T14:57:09.315+0800","caller":"Common/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-09-09T14:57:09.449+0800","caller":"dbger/main.go:64","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2020-09-09T14:57:09.452+0800","caller":"dbger/main.go:49","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2020-09-09T15:00:16.268+0800","caller":"Common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2020-09-09T15:00:16.291+0800","caller":"Common/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-09-09T15:00:16.426+0800","caller":"dbger/main.go:64","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2020-09-09T15:00:16.428+0800","caller":"dbger/main.go:65","message":"listen tcp 0.0.0.0:8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
+{"level":"INFO","time":"2020-09-09T15:00:16.428+0800","caller":"dbger/main.go:49","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2020-09-09T15:00:50.287+0800","caller":"Common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2020-09-09T15:00:50.334+0800","caller":"Common/config.go:34","message":"configuration load succeeded","config file":"C:\\Users\\E431JP\\go\\home\\src\\dbger\\configs\\config.yaml"}
+{"level":"INFO","time":"2020-09-09T15:00:50.494+0800","caller":"dbger/main.go:64","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2020-09-09T15:00:50.496+0800","caller":"dbger/main.go:65","message":"listen tcp 0.0.0.0:8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
+{"level":"INFO","time":"2020-09-09T15:00:50.498+0800","caller":"dbger/main.go:49","message":"the router has been deployed successfully"}
