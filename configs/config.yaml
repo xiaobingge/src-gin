@@ -23,6 +23,6 @@ log:
 # database
 db:
   name: dbger
-  addr: 182.61.28.243:3306 # host:port
-  username: bger
-  password: xiaobinggev5
+  addr: 127.0.0.1:3306 # host:port
+  username: root
+  password: 123456
