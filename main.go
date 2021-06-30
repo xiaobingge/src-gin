@@ -30,7 +30,6 @@ func init(){
 	} else {
 		gin.SetMode(gin.ReleaseMode)
 	}
-
 }
 func main() {
 	// init db
