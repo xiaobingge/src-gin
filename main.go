@@ -7,7 +7,7 @@ import (
 	"github.com/spf13/viper"
 	"dbger/app/common"
 	"dbger/app/models"
-	 logger "dbger/utils"
+    "dbger/utils"
 	"dbger/router"
 	"go.uber.org/zap"
 	"log"
@@ -45,7 +45,7 @@ func main() {
 		if err := pingServer(); err != nil {
 			log.Fatal("The router has no response, or it might took too long to start up", err)
 		}
-		logger.Info("the router has been deployed successfully")
+		utils.Info("the router has been deployed successfully")
 	}()
 	// If open https, start listening https request
 	if true == viper.GetBool("tls.https_open") {
@@ -53,15 +53,15 @@ func main() {
 		key := viper.GetString("tls.key")
 		if cert != "" && key != "" {
 			go func() {
-				logger.Info("start to listening the incoming https requests", zap.String("port", viper.GetString("tls.addr")))
-				logger.Info(http.ListenAndServeTLS("0.0.0.0:"+viper.GetString("tls.addr"), cert, key, g).Error())
+				utils.Info("start to listening the incoming https requests", zap.String("port", viper.GetString("tls.addr")))
+				utils.Info(http.ListenAndServeTLS("0.0.0.0:"+viper.GetString("tls.addr"), cert, key, g).Error())
 			}()
 		} else {
-			logger.Errorf("cert and key can not be empty, failed to listen https port")
+			utils.Errorf("cert and key can not be empty, failed to listen https port")
 		}
 	}
-	logger.Info("start to listening the incoming http requests", zap.String("port", viper.GetString("addr")))
-	logger.Info(http.ListenAndServe("0.0.0.0:"+viper.GetString("addr"), g).Error())
+	utils.Info("start to listening the incoming http requests", zap.String("port", viper.GetString("addr")))
+	utils.Info(http.ListenAndServe("0.0.0.0:"+viper.GetString("addr"), g).Error())
 
 }
 
@@ -75,7 +75,7 @@ func pingServer() error {
 		}
 
 		// Sleep for a second to continue the next ping.
-		logger.Info("waiting for the router, retry in 1 second")
+		utils.Info("waiting for the router, retry in 1 second")
 		time.Sleep(time.Second)
 	}
 	return errors.New("cannot connect to the router")
