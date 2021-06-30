@@ -1,8 +1,8 @@
 package router
 
 import (
-	"dbger/app/controllers/auth"
-	"dbger/app/controllers/home"
+	"dbger/app/api/auth"
+	"dbger/app/api/home"
 	"dbger/app/middleware"
 	"github.com/gin-gonic/gin"
 	"net/http"

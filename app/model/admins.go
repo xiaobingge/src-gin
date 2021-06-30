@@ -1,4 +1,7 @@
-package models
+package model
+
+import "dbger/app/common/db"
+
 //import "github.com/jinzhu/gorm"
 type Admins struct {
 	Id         uint64 `gorm:"primary_key;AUTO_INCREMENT;column:id"`
@@ -13,13 +16,13 @@ func ListAdmins(limit,page int) ([]*Admins, uint64,error)  {
 	list := make([]*Admins,0)
 	var count uint64
 	where := "status = 1"
-	if err := DB.Local.Model(&Admins{}).Where(where).Count(&count).Error; err != nil {
+	if err := db.DB.Local.Model(&Admins{}).Where(where).Count(&count).Error; err != nil {
 		return list, count ,err
 	}
 
 	offset := (page -1) * limit
 
-	if err := DB.Local.Where(where).Offset(offset).Limit(limit).Find(&list).Error; err != nil {
+	if err := db.DB.Local.Where(where).Offset(offset).Limit(limit).Find(&list).Error; err != nil {
 		return  list,count,err
 	}
 	return list , count ,nil

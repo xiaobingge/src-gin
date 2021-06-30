@@ -1,14 +1,14 @@
 package main
 
 import (
+	"dbger/app/common/config"
+	"dbger/app/common/db"
+	"dbger/router"
+	"dbger/utils"
 	"errors"
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/pflag"
 	"github.com/spf13/viper"
-	"dbger/app/common"
-	"dbger/app/models"
-    "dbger/utils"
-	"dbger/router"
 	"go.uber.org/zap"
 	"log"
 	"net/http"
@@ -21,7 +21,7 @@ var (
 func init(){
 	pflag.Parse()
 	// load config include logger
-	common.Init(*configPath)
+	config.Init(*configPath)
 	// Set gin mode.
 	if "debug" == viper.GetString("runmode") {
 		gin.SetMode(gin.DebugMode)
@@ -33,8 +33,8 @@ func init(){
 }
 func main() {
 	// init db
-	models.DB.Init()
-	defer models.DB.Close()
+	db.DB.Init()
+	defer db.DB.Close()
 	// create the gin engine
 	g := gin.New()
 	// routes
