@@ -5,7 +5,7 @@ import (
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql" // mysql for gorm
 	"github.com/spf13/viper"
-	"github.com/xiaobingge/dbger/app/utils"
+	"dbger/utils"
 )
 
 // Database database struct

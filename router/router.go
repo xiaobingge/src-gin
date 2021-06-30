@@ -2,9 +2,9 @@ package router
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/xiaobingge/dbger/app/http/controllers/auth"
-	"github.com/xiaobingge/dbger/app/http/controllers/home"
-	"github.com/xiaobingge/dbger/app/http/middleware"
+	"dbger/app/controllers/auth"
+	"dbger/app/controllers/home"
+	"dbger/app/middleware"
 	"net/http"
 )
 // Load loads the middlewares, routes, handles.

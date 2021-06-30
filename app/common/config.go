@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"
-	"github.com/xiaobingge/dbger/app/utils"
+	"dbger/utils"
 	"go.uber.org/zap"
 	"strings"
 )
@@ -39,7 +39,7 @@ func (c *Config) initConfig() error {
 	if c.Name != "" {
 		viper.SetConfigFile(c.Name) // 如果指定了配置文件，解析指定配置文件
 	} else {
-		viper.AddConfigPath("./configs") // 如果没有指定配置文件，则解析默认配置文件
+		viper.AddConfigPath("./config") // 如果没有指定配置文件，则解析默认配置文件
 		viper.SetConfigName("config")
 	}
 

@@ -10,8 +10,8 @@ gormlog: true
 tls:
   https_open: false
   addr: 8080
-  cert: configs/server.crt
-  key: configs/server.key
+  cert: config/server.crt
+  key: config/server.key
 
 # logger
 log:

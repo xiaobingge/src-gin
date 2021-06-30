@@ -2,7 +2,7 @@ package auth
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/xiaobingge/dbger/app/utils"
+	"dbger/utils"
 	"net/http"
 )
 

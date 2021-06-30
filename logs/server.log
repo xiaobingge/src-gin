@@ -152,3 +152,21 @@
 {"level":"INFO","time":"2020-09-09T15:00:50.494+0800","caller":"dbger/main.go:64","message":"start to listening the incoming http requests","port":"8000"}
 {"level":"INFO","time":"2020-09-09T15:00:50.496+0800","caller":"dbger/main.go:65","message":"listen tcp 0.0.0.0:8000: bind: Only one usage of each socket address (protocol/network address/port) is normally permitted."}
 {"level":"INFO","time":"2020-09-09T15:00:50.498+0800","caller":"dbger/main.go:49","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2021-01-04T20:18:59.365+0800","caller":"Common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2021-01-04T20:18:59.465+0800","caller":"Common/config.go:34","message":"configuration load succeeded","config file":"D:\\gowork\\src\\src-gin\\configs\\config.yaml"}
+{"level":"INFO","time":"2021-01-04T20:18:59.625+0800","caller":"src-gin/main.go:64","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2021-01-04T20:19:00.248+0800","caller":"src-gin/main.go:49","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2021-01-04T20:24:04.836+0800","caller":"Common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2021-01-04T20:24:04.854+0800","caller":"Common/config.go:34","message":"configuration load succeeded","config file":"D:\\gowork\\src\\src-gin\\configs\\config.yaml"}
+{"level":"INFO","time":"2021-01-04T20:24:04.981+0800","caller":"src-gin/main.go:64","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2021-01-04T20:24:05.486+0800","caller":"src-gin/main.go:49","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2021-06-30T10:19:26.129+0800","caller":"common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2021-06-30T10:19:26.151+0800","caller":"common/config.go:34","message":"configuration load succeeded","config file":"D:\\gowork\\src\\src-gin\\config\\config.yaml"}
+{"level":"INFO","time":"2021-06-30T10:19:26.382+0800","caller":"src-gin/main.go:64","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2021-06-30T10:19:26.885+0800","caller":"src-gin/main.go:49","message":"the router has been deployed successfully"}
+{"level":"INFO","time":"2021-06-30T10:22:44.731+0800","caller":"common/config.go:69","message":"config file changed: D:\\gowork\\src\\src-gin\\config\\config.yaml"}
+{"level":"INFO","time":"2021-06-30T10:22:44.737+0800","caller":"common/config.go:69","message":"config file changed: D:\\gowork\\src\\src-gin\\config\\config.yaml"}
+{"level":"INFO","time":"2021-06-30T10:30:37.795+0800","caller":"common/config.go:62","message":"zap logger construction succeeded"}
+{"level":"INFO","time":"2021-06-30T10:30:37.813+0800","caller":"common/config.go:34","message":"configuration load succeeded","config file":"D:\\gowork\\src\\src-gin\\config\\config.yaml"}
+{"level":"INFO","time":"2021-06-30T10:30:38.057+0800","caller":"src-gin/main.go:64","message":"start to listening the incoming http requests","port":"8000"}
+{"level":"INFO","time":"2021-06-30T10:30:38.560+0800","caller":"src-gin/main.go:49","message":"the router has been deployed successfully"}
